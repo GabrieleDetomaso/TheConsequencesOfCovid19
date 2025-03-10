@@ -1,5 +1,5 @@
 # TheConsequencesOfCovid19
-Small Data mining project that aims to find meaningful clusters and frequent patterns into a dataset of Spanish families which lived the covid19 pandemic
+Data mining project that aims to find meaningful clusters and frequent patterns into a dataset of Spanish families which lived the covid19 pandemic
 
 # Repository structure
 There are several python notebooks, the number define the execution order  
@@ -15,7 +15,7 @@ Fields:
 # Pipeline
 1. Data cleaning
     - remove useless features
-    - remove rows with at least 2 NaN values
+    - remove rows NaN values
 2. Clean dataset analysis
 3. Dimensionality Reduction
 4. Clustering 2D

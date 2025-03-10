@@ -3,7 +3,7 @@ Small Data mining project that aims to find meaningful clusters and frequent pat
 
 # Repository structure
 There are several python notebooks, the number define the execution order  
-Fields:
+Folders:
 - **Array_saved** contains the dataset csv files after some elaborations.
 - **Clustering_results** contains the clusters csv files for each clustering methods.
 - **DataMiningEnv** contains the python virtual environment.
